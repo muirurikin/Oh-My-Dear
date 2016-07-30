@@ -17,9 +17,11 @@
     color: whitesmoke;
 } 
 .hov {
+    color: white;
     border-top: 3px solid white;
 }
 .hove {
+    color: white;
     border-bottom: 3px solid white;
 }
 .hov:hover {
@@ -29,4 +31,35 @@
 .hove:hover {
     color: darkblue;
     border-bottom: 3px solid darkblue;
+}
+
+.back {
+    background: url(../images/contact.jpg);
+    background-repeat: no-repeat;
+    height: 500px;
+    text-align: center;
+    padding-top: 100px;
+}
+.ico {
+    font-size: 50px;
+}
+.ico :hover {
+    color: deepskyblue;
+}
+.cont {
+    text-align: center;
+    padding-bottom: 60px;
+    padding-top: 80px;
+}
+.news {
+    text-align: center;
+}
+.foot {
+    text-align: center;
+}
+.zote {
+    background-color: cornflowerblue;
+    height: 80px;
+    color: whitesmoke;
+    text-align: center;
 }

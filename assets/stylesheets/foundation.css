@@ -414,9 +414,12 @@ select {
 button {
   -webkit-appearance: none;
   -moz-appearance: none;
-  background: transparent;
-  padding: 0;
+  background: navy;
+  padding-bottom: 5px;
+  padding-top: 5px;
   border: 0;
+    
+  color: whitesmoke;
   border-radius: 0;
   line-height: 1; }
   [data-whatinput='mouse'] button {
