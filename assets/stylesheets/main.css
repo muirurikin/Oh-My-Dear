@@ -1,0 +1,32 @@
+.bady {
+    background-color: cornflowerblue;
+}
+.inde {
+    padding-top: 150px;
+    text-align: center;
+    color: whitesmoke;
+}
+.icon {
+    text-align: center;
+    color: aliceblue;
+    font-size: 100px;
+    padding-top: 30px;
+    padding-bottom: 40px;
+}
+.cb {
+    color: whitesmoke;
+} 
+.hov {
+    border-top: 3px solid white;
+}
+.hove {
+    border-bottom: 3px solid white;
+}
+.hov:hover {
+    color: darkblue;
+    border-top: 3px solid darkblue;
+}
+.hove:hover {
+    color: darkblue;
+    border-bottom: 3px solid darkblue;
+}
