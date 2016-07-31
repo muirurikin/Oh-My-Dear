@@ -83,6 +83,7 @@ template {
    * Remove the gray background color from active links in IE 10.
    */
 a {
+  color: whitesmoke;
   background-color: transparent; }
 
 /**

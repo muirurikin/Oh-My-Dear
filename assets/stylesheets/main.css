@@ -58,10 +58,11 @@
     text-align: center;
 }
 .zote {
-    background-color: cornflowerblue;
+    background-color:  beige;
     height: 80px;
     color: whitesmoke;
     text-align: center;
+    padding-top: 30px;
 }
 .ca:hover {
     background-color: transparent;
@@ -95,4 +96,9 @@
 .cont-1 {
     text-align: center;
     padding-bottom: 100px;
+}
+.ul {
+    text-align: center;
+    font-size: 20px;
+    color: whitesmoke;
 }
