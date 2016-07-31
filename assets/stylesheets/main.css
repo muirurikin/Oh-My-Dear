@@ -63,3 +63,26 @@
     color: whitesmoke;
     text-align: center;
 }
+.ca:hover {
+    background-color: transparent;
+}
+.back2 {
+    background: url(../images/wideband02.jpg);
+    background-repeat: no-repeat;
+    height: 300px;
+    text-align: center;
+    padding-top: 100px;
+    color: whitesmoke;
+}
+.btn {
+    border: 2px solid whitesmoke;
+    color: whitesmoke;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.btn:hover {
+    background-color: white;
+    color: navy;
+}
